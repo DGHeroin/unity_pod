@@ -1,0 +1,16 @@
+PODS:
+  - unity_pod (0.1.0)
+
+DEPENDENCIES:
+  - unity_pod (from `../`)
+
+EXTERNAL SOURCES:
+  unity_pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  unity_pod: c6df0ad924df00bb44018eb6c5612ce5808c4b6a
+
+PODFILE CHECKSUM: 1bb592b4729b2cdf2af2fc209caefc616e99c8a2
+
+COCOAPODS: 1.8.4
